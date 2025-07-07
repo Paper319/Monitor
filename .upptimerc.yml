@@ -8,6 +8,7 @@ sites:
   - name: Account Login
     url: $ACCOUNT_URL
   - name: Downloader
+    method: GET
     url: $DOWNLOAD_URL/api/v2/app/preferences
     body: 'Forbidden'
   - name: Movie Manager
