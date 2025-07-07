@@ -40,6 +40,8 @@ status-website:
   name: PaperStatus
   introTitle: "**HELLO?** Is it you or is it broke?"
   introMessage: Then I already know about it.
+  status-website:
+  theme: ocean
   navbar:
     - title: Status
       href: /Monitor
