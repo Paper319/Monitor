@@ -21,6 +21,10 @@ sites:
     url: $SUBTITLES_URL
   - name: Enocder
     url: $ENCODER_URL
+  - name: Cloud Files
+    url: $CLOUD_URL
+    expectedStatusCodes:
+      - 403
     
 
 status-website:
