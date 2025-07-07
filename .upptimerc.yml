@@ -8,7 +8,9 @@ sites:
   - name: Account Login
     url: $ACCOUNT_URL
   - name: Downloader
-    url: $DOWNLOAD_URL
+    url: $DOWNLOAD_URL/api/v2/app/preferences
+    expectedStatusCodes:
+      - 403
   - name: Movie Manager
     url: $MOVIE_URL
   - name: Shows Manager
