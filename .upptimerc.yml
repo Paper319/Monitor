@@ -44,7 +44,7 @@ status-website:
   # cname: domain.com
   baseUrl: /Monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: PaperStatus
   introTitle: "**HELLO?** Is it you or is it broke?"
   introMessage: Then I already know about it.
   navbar:
