@@ -1,27 +1,7 @@
 [
   {
-    "name": "Main Proxy Host",
-    "url": "$PROXY_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "main-proxy-host",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-07-07": 6
-    }
-  },
-  {
     "name": "PaperFin",
-    "url": "$MEDIA_URL",
+    "url": "$MEDIA_URL/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paper-fin",
     "status": "up",
@@ -57,21 +37,23 @@
   },
   {
     "name": "Downloader",
-    "url": "$DOWNLOAD_URL",
+    "url": "$DOWNLOAD_URL/api/v2/app/preferences",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "downloader",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 528,
-    "timeWeek": 528,
-    "timeMonth": 528,
-    "timeYear": 528,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "78.63%",
+    "uptimeDay": "78.63%",
+    "uptimeWeek": "78.63%",
+    "uptimeMonth": "78.63%",
+    "uptimeYear": "78.63%",
+    "time": 474,
+    "timeDay": 474,
+    "timeWeek": 474,
+    "timeMonth": 474,
+    "timeYear": 474,
+    "dailyMinutesDown": {
+      "2025-07-07": 7
+    }
   },
   {
     "name": "Movie Manager",
@@ -180,25 +162,5 @@
     "timeMonth": 514,
     "timeYear": 514,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Cloud Files",
-    "url": "$CLOUD_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "cloud-files",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 56,
-    "timeDay": 56,
-    "timeWeek": 56,
-    "timeMonth": 56,
-    "timeYear": 56,
-    "dailyMinutesDown": {
-      "2025-07-07": 6
-    }
   }
 ]
