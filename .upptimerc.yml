@@ -29,14 +29,7 @@ sites:
       - 403
   - name: McPanel
     url: $MCPANEL_URL
-  - name: HomeStead Server
-    check: "tcp-ping"
-    url: $HOMESTEAD_URL
-    port: 25565
-  - name: NightFall Server
-    check: "tcp-ping"
-    url: $NIGHTFALL_URL
-    port: 25569
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
