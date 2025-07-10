@@ -1,7 +1,7 @@
 url: $DOWNLOAD_URL/api/v2/app/preferences
-status: down
-code: 523
-responseTime: 2896
-lastUpdated: 2025-07-10T22:47:50.659Z
+status: up
+code: 403
+responseTime: 517
+lastUpdated: 2025-07-10T22:58:53.435Z
 startTime: 2025-07-07T08:59:01.497Z
 generator: Upptime <https://github.com/upptime/upptime>
