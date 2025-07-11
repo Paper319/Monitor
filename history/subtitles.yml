@@ -1,7 +1,7 @@
 url: $SUBTITLES_URL
-status: down
-code: 403
-responseTime: 189
-lastUpdated: 2025-07-11T13:54:36.456Z
+status: up
+code: 200
+responseTime: 238
+lastUpdated: 2025-07-11T14:21:50.752Z
 startTime: 2025-07-07T08:59:06.575Z
 generator: Upptime <https://github.com/upptime/upptime>
