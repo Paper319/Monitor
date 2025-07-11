@@ -52,6 +52,9 @@ sites:
       - 403
   - name: McPanel
     url: $MCPANEL_URL
+    expectedStatusCodes:
+      - 200
+      - 403
 
 
 status-website:
