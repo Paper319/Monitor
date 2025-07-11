@@ -7,25 +7,48 @@ sites:
     url: $MEDIA_URL/health
   - name: Account Login
     url: $ACCOUNT_URL
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Downloader
     url: $DOWNLOAD_URL/api/v2/app/preferences
     expectedStatusCodes:
+      - 200
       - 403
   - name: Movie Manager
     url: $MOVIE_URL
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Shows Manager
     url: $SHOWS_URL
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Request
     url: $REQUEST_URL
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Lookup Stuff
     url: $SEARCH_URL
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Subtitles
     url: $SUBTITLES_URL
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Enocder
     url: $ENCODER_URL
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Cloud Files
     url: $CLOUD_URL
     expectedStatusCodes:
+      - 200
       - 403
   - name: McPanel
     url: $MCPANEL_URL
