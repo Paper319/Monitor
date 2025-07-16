@@ -1,7 +1,7 @@
 url: $DOWNLOAD_URL/api/v2/app/preferences
 status: up
 code: 403
-responseTime: 143
-lastUpdated: 2025-07-15T23:21:24.273Z
+responseTime: 57
+lastUpdated: 2025-07-16T23:22:31.611Z
 startTime: 2025-07-07T08:59:01.497Z
 generator: Upptime <https://github.com/upptime/upptime>
