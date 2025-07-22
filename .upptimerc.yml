@@ -9,7 +9,6 @@ sites:
     url: $ACCOUNT_URL
     expectedStatusCodes:
       - 200
-      - 403
   - name: Downloader
     url: $DOWNLOAD_URL/api/v2/app/preferences
     expectedStatusCodes:
