@@ -37,7 +37,6 @@ sites:
     url: $ENCODER_URL
     expectedStatusCodes:
       - 200
-      - 403
   - name: Cloud Files
     url: $CLOUD_URL
     expectedStatusCodes:
