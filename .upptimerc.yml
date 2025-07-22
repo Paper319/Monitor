@@ -18,7 +18,7 @@ sites:
   - name: Lookup Stuff
     url: $SEARCH_URL
   - name: Subtitles
-    url: $SUBTITLES_URL/api/system/status?apikey=$SUB_KEY
+    url: $SUBTITLES_URL
   - name: Enocder
     url: $ENCODER_URL
   - name: Cloud Files
