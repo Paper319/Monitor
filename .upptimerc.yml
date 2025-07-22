@@ -14,15 +14,15 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Movie Manager
-    url: $MOVIE_URL
+    url: $MOVIE_URL/ping
     expectedStatusCodes:
       - 200
   - name: Shows Manager
-    url: $SHOWS_URL
+    url: $SHOWS_URL/ping
     expectedStatusCodes:
       - 200
   - name: Request
-    url: $REQUEST_URL
+    url: $REQUEST_URL/api/v1/status
     expectedStatusCodes:
       - 200
   - name: Lookup Stuff
@@ -30,7 +30,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Subtitles
-    url: $SUBTITLES_URL
+    url: $SUBTITLES_URL/api/system/status?apikey=$SUB_KEY
     expectedStatusCodes:
       - 200
   - name: Enocder
