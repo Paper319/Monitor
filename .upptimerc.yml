@@ -21,7 +21,6 @@ sites:
     url: $SHOWS_URL
     expectedStatusCodes:
       - 200
-      - 403
   - name: Request
     url: $REQUEST_URL
     expectedStatusCodes:
