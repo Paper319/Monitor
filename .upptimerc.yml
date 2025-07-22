@@ -29,7 +29,6 @@ sites:
     url: $SEARCH_URL
     expectedStatusCodes:
       - 200
-      - 403
   - name: Subtitles
     url: $SUBTITLES_URL
     expectedStatusCodes:
