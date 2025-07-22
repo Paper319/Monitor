@@ -1,7 +1,7 @@
 url: $SEARCH_URL
-status: down
-code: 403
-responseTime: 391
-lastUpdated: 2025-07-22T22:48:07.647Z
+status: up
+code: 200
+responseTime: 1243
+lastUpdated: 2025-07-22T23:00:06.917Z
 startTime: 2025-07-07T08:59:05.301Z
 generator: Upptime <https://github.com/upptime/upptime>
