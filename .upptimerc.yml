@@ -13,7 +13,6 @@ sites:
     url: $DOWNLOAD_URL/api/v2/app/preferences
     expectedStatusCodes:
       - 200
-      - 403
   - name: Movie Manager
     url: $MOVIE_URL
     expectedStatusCodes:
