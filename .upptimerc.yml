@@ -18,7 +18,7 @@ sites:
   - name: Lookup Stuff
     url: $SEARCH_URL
   - name: Subtitles
-    url: $SUBTITLES_URL
+    url: $SUBTITLES_URL/login
   - name: Enocder
     url: $ENCODER_URL
   - name: Cloud Files
