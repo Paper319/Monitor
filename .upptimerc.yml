@@ -17,7 +17,6 @@ sites:
     url: $MOVIE_URL
     expectedStatusCodes:
       - 200
-      - 403
   - name: Shows Manager
     url: $SHOWS_URL
     expectedStatusCodes:
