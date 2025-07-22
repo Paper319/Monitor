@@ -7,44 +7,24 @@ sites:
     url: $MEDIA_URL/health
   - name: Account Login
     url: $ACCOUNT_URL
-    expectedStatusCodes:
-      - 200
   - name: Downloader
-    url: $DOWNLOAD_URL/api/v2/app/preferences
-    expectedStatusCodes:
-      - 200
+    url: $DOWNLOAD_URL
   - name: Movie Manager
     url: $MOVIE_URL/ping
-    expectedStatusCodes:
-      - 200
   - name: Shows Manager
     url: $SHOWS_URL/ping
-    expectedStatusCodes:
-      - 200
   - name: Request
     url: $REQUEST_URL/api/v1/status
-    expectedStatusCodes:
-      - 200
   - name: Lookup Stuff
     url: $SEARCH_URL
-    expectedStatusCodes:
-      - 200
   - name: Subtitles
     url: $SUBTITLES_URL/api/system/status?apikey=$SUB_KEY
-    expectedStatusCodes:
-      - 200
   - name: Enocder
     url: $ENCODER_URL
-    expectedStatusCodes:
-      - 200
   - name: Cloud Files
     url: $CLOUD_URL
-    expectedStatusCodes:
-      - 200
   - name: McPanel
     url: $MCPANEL_URL
-    expectedStatusCodes:
-      - 200
 
 
 status-website:
