@@ -25,7 +25,6 @@ sites:
     url: $REQUEST_URL
     expectedStatusCodes:
       - 200
-      - 403
   - name: Lookup Stuff
     url: $SEARCH_URL
     expectedStatusCodes:
