@@ -33,7 +33,6 @@ sites:
     url: $SUBTITLES_URL
     expectedStatusCodes:
       - 200
-      - 403
   - name: Enocder
     url: $ENCODER_URL
     expectedStatusCodes:
