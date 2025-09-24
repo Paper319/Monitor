@@ -144,21 +144,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Enocder",
+    "name": "Encoder",
     "url": "$ENCODER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "enocder",
+    "slug": "encoder",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 107,
-    "timeWeek": 2730,
-    "timeMonth": 985,
-    "timeYear": 598,
+    "time": 239,
+    "timeDay": 239,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {}
   },
   {
