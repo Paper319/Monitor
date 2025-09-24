@@ -34,8 +34,8 @@ status-website:
   baseUrl: /Monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PaperStatus
-  introTitle: "**HELLO?** Is it you or is it broke?"
-  introMessage: Then I already know about it.
+  introTitle: "**HELLO?** Why Server Broke?"
+  introMessage: If it is this will tell you.
   status-website:
   theme: ocean
   navbar:
