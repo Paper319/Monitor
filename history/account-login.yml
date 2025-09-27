@@ -1,7 +1,7 @@
 url: $ACCOUNT_URL
-status: down
-code: 523
-responseTime: 3263
-lastUpdated: 2025-09-27T18:40:34.684Z
+status: up
+code: 200
+responseTime: 461
+lastUpdated: 2025-09-27T19:36:19.940Z
 startTime: 2025-07-07T08:59:00.245Z
 generator: Upptime <https://github.com/upptime/upptime>
