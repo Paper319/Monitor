@@ -42,19 +42,19 @@
     "url": "$DOWNLOAD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "downloader",
-    "status": "down",
-    "uptime": "100.03%",
+    "status": "up",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 347,
-    "timeWeek": 371,
-    "timeMonth": 1033,
-    "timeYear": 812,
+    "time": 809,
+    "timeDay": 378,
+    "timeWeek": 378,
+    "timeMonth": 1016,
+    "timeYear": 809,
     "dailyMinutesDown": {
-      "2025-11-02": -59
+      "2025-11-02": 12
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "$CLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-files",
-    "status": "down",
-    "uptime": "100.03%",
+    "status": "up",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1149,
-    "timeDay": 345,
-    "timeWeek": 657,
-    "timeMonth": 1242,
-    "timeYear": 1149,
+    "time": 1145,
+    "timeDay": 425,
+    "timeWeek": 649,
+    "timeMonth": 1223,
+    "timeYear": 1145,
     "dailyMinutesDown": {
-      "2025-11-02": -59
+      "2025-11-02": 12
     }
   },
   {
@@ -190,19 +190,19 @@
     "url": "$MCPANEL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-panel",
-    "status": "down",
-    "uptime": "100.04%",
+    "status": "up",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 627,
-    "timeDay": 369,
-    "timeWeek": 420,
-    "timeMonth": 1036,
-    "timeYear": 627,
+    "time": 624,
+    "timeDay": 346,
+    "timeWeek": 408,
+    "timeMonth": 1015,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-11-02": -60
+      "2025-11-02": 11
     }
   }
 ]
