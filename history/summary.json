@@ -22,18 +22,20 @@
     "url": "$ACCOUNT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "account-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 522,
-    "timeWeek": 543,
-    "timeMonth": 1001,
-    "timeYear": 925,
-    "dailyMinutesDown": {}
+    "time": 923,
+    "timeDay": 512,
+    "timeWeek": 537,
+    "timeMonth": 987,
+    "timeYear": 923,
+    "dailyMinutesDown": {
+      "2025-11-16": 0
+    }
   },
   {
     "name": "Downloader",
