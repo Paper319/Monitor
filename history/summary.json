@@ -122,19 +122,19 @@
     "url": "$SEARCH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lookup-stuff",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "88.73%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.92%",
-    "time": 781,
-    "timeDay": 2346,
-    "timeWeek": 1195,
-    "timeMonth": 1173,
-    "timeYear": 781,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.90%",
+    "time": 779,
+    "timeDay": 1963,
+    "timeWeek": 1125,
+    "timeMonth": 1153,
+    "timeYear": 779,
     "dailyMinutesDown": {
-      "2025-11-18": 162
+      "2025-11-18": 190
     }
   },
   {
