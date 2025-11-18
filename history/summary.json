@@ -22,18 +22,20 @@
     "url": "$ACCOUNT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "account-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 449,
-    "timeWeek": 522,
-    "timeMonth": 985,
-    "timeYear": 916,
-    "dailyMinutesDown": {}
+    "time": 913,
+    "timeDay": 412,
+    "timeWeek": 507,
+    "timeMonth": 969,
+    "timeYear": 913,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Downloader",
@@ -58,18 +60,20 @@
     "url": "$MOVIE_URL/ping",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "movie-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 590,
-    "timeWeek": 563,
-    "timeMonth": 1007,
-    "timeYear": 729,
-    "dailyMinutesDown": {}
+    "time": 725,
+    "timeDay": 398,
+    "timeWeek": 518,
+    "timeMonth": 984,
+    "timeYear": 725,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Shows Manager",
@@ -184,17 +188,19 @@
     "url": "$MCPANEL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 578,
-    "timeWeek": 418,
-    "timeMonth": 985,
-    "timeYear": 603,
-    "dailyMinutesDown": {}
+    "time": 601,
+    "timeDay": 485,
+    "timeWeek": 415,
+    "timeMonth": 968,
+    "timeYear": 601,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
