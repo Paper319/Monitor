@@ -1,7 +1,7 @@
 url: $SHOWS_URL/ping
-status: down
-code: 502
-responseTime: 253
-lastUpdated: 2026-01-05T09:01:12.420Z
+status: up
+code: 200
+responseTime: 524
+lastUpdated: 2026-01-05T09:44:30.496Z
 startTime: 2025-07-07T08:59:03.406Z
 generator: Upptime <https://github.com/upptime/upptime>
