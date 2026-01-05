@@ -58,36 +58,40 @@
     "url": "$MOVIE_URL/ping",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "movie-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 662,
-    "timeDay": 84,
-    "timeWeek": 648,
-    "timeMonth": 548,
+    "timeDay": 390,
+    "timeWeek": 653,
+    "timeMonth": 551,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-05": 0
+    }
   },
   {
     "name": "Shows Manager",
     "url": "$SHOWS_URL/ping",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shows-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 106,
-    "timeWeek": 418,
-    "timeMonth": 465,
-    "timeYear": 629,
-    "dailyMinutesDown": {}
+    "time": 627,
+    "timeDay": 180,
+    "timeWeek": 401,
+    "timeMonth": 460,
+    "timeYear": 627,
+    "dailyMinutesDown": {
+      "2026-01-05": 0
+    }
   },
   {
     "name": "Request",
@@ -132,18 +136,20 @@
     "url": "$SUBTITLES_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "subtitles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 109,
-    "timeWeek": 698,
-    "timeMonth": 447,
-    "timeYear": 599,
-    "dailyMinutesDown": {}
+    "time": 602,
+    "timeDay": 702,
+    "timeWeek": 758,
+    "timeMonth": 470,
+    "timeYear": 602,
+    "dailyMinutesDown": {
+      "2026-01-05": 0
+    }
   },
   {
     "name": "Encoder",
