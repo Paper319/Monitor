@@ -1,7 +1,7 @@
 url: $ENCODER_URL
-status: down
-code: 522
-responseTime: 19751
-lastUpdated: 2026-01-13T07:42:19.843Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2026-01-13T08:17:27.963Z
 startTime: 2025-09-24T10:29:29.508Z
 generator: Upptime <https://github.com/upptime/upptime>
