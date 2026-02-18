@@ -1,7 +1,7 @@
 url: $MEDIA_URL/health
-status: down
-code: 502
-responseTime: 299
-lastUpdated: 2026-02-18T09:02:33.577Z
+status: up
+code: 200
+responseTime: 627
+lastUpdated: 2026-02-18T10:01:54.239Z
 startTime: 2025-07-07T08:39:50.796Z
 generator: Upptime <https://github.com/upptime/upptime>
