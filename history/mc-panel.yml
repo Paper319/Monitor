@@ -1,7 +1,7 @@
 url: $MCPANEL_URL
-status: down
-code: 523
-responseTime: 2467
-lastUpdated: 2026-02-24T08:05:52.089Z
+status: up
+code: 200
+responseTime: 574
+lastUpdated: 2026-02-24T09:03:46.784Z
 startTime: 2025-07-07T20:08:24.172Z
 generator: Upptime <https://github.com/upptime/upptime>
