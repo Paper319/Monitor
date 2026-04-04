@@ -1,7 +1,7 @@
 url: $DOWNLOAD_URL
-status: up
-code: 200
-responseTime: 232
-lastUpdated: 2026-04-03T23:37:15.045Z
+status: down
+code: 521
+responseTime: 228
+lastUpdated: 2026-04-04T08:56:29.063Z
 startTime: 2025-07-07T08:59:01.497Z
 generator: Upptime <https://github.com/upptime/upptime>
