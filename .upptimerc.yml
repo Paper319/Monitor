@@ -19,8 +19,6 @@ sites:
     url: $SEARCH_URL
   - name: Subtitles
     url: $SUBTITLES_URL
-  - name: Encoder
-    url: $ENCODER_URL
   - name: Cloud Files
     url: $CLOUD_URL
   - name: McPanel
