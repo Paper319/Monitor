@@ -166,17 +166,19 @@
     "url": "$MCPANEL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 390,
-    "timeWeek": 363,
-    "timeMonth": 444,
-    "timeYear": 592,
-    "dailyMinutesDown": {}
+    "time": 590,
+    "timeDay": 270,
+    "timeWeek": 337,
+    "timeMonth": 436,
+    "timeYear": 590,
+    "dailyMinutesDown": {
+      "2026-04-15": 0
+    }
   }
 ]
