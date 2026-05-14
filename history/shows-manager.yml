@@ -1,7 +1,7 @@
 url: $SHOWS_URL/ping
 status: up
 code: 200
-responseTime: 843
-lastUpdated: 2026-05-14T00:02:50.577Z
+responseTime: 166
+lastUpdated: 2026-05-14T23:58:54.020Z
 startTime: 2025-07-07T08:59:03.406Z
 generator: Upptime <https://github.com/upptime/upptime>
