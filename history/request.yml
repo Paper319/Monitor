@@ -1,7 +1,7 @@
 url: $REQUEST_URL/api/v1/status
 status: up
 code: 200
-responseTime: 506
-lastUpdated: 2026-05-25T00:02:43.812Z
+responseTime: 404
+lastUpdated: 2026-05-26T00:08:03.518Z
 startTime: 2025-07-07T08:59:04.271Z
 generator: Upptime <https://github.com/upptime/upptime>
