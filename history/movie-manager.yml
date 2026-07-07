@@ -1,7 +1,7 @@
 url: $MOVIE_URL/ping
 status: up
 code: 200
-responseTime: 229
-lastUpdated: 2026-07-06T00:08:54.079Z
+responseTime: 201
+lastUpdated: 2026-07-07T00:10:24.122Z
 startTime: 2025-07-07T08:59:02.457Z
 generator: Upptime <https://github.com/upptime/upptime>
