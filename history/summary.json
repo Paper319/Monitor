@@ -195,9 +195,9 @@
     "url": "$CLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-files",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.64%",
@@ -211,7 +211,8 @@
       "2026-06-20": 316,
       "2026-06-21": 870,
       "2026-07-15": 451,
-      "2026-07-19": 58
+      "2026-07-19": 58,
+      "2026-07-29": 0
     }
   },
   {
@@ -220,7 +221,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-panel",
     "status": "up",
-    "uptime": "88.20%",
+    "uptime": "88.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
