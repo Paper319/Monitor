@@ -7,18 +7,8 @@ sites:
     url: $MEDIA_URL/health
   - name: Account Login
     url: $ACCOUNT_URL
-  - name: Downloader
-    url: $DOWNLOAD_URL
-  - name: Movie Manager
-    url: $MOVIE_URL/ping
-  - name: Shows Manager
-    url: $SHOWS_URL/ping
   - name: Request
     url: $REQUEST_URL/api/v1/status
-  - name: Lookup Stuff
-    url: $SEARCH_URL
-  - name: Subtitles
-    url: $SUBTITLES_URL
   - name: Cloud Files
     url: $CLOUD_URL
   - name: McPanel
